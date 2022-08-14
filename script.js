@@ -4,6 +4,6 @@ let me = {
     country: "Nigeria"
 };
 
-alert(`My name is ${me.name}`)
-alert(`I am ${me.height} tall`)
-alert(`I am from ${me.country}`)
+alert(`My name is ${me.name}`);
+alert(`I am ${me.height} tall`);
+alert(`I am from ${me.country}`);
